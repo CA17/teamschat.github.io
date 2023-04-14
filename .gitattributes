@@ -1,0 +1,5 @@
+main.dart.js filter=lfs diff=lfs merge=lfs -text
+canvaskit/profiling/canvaskit.wasm filter=lfs diff=lfs merge=lfs -text
+canvaskit/profiling/canvaskit.js filter=lfs diff=lfs merge=lfs -text
+canvaskit/canvaskit.wasm filter=lfs diff=lfs merge=lfs -text
+canvaskit/canvaskit.js filter=lfs diff=lfs merge=lfs -text
